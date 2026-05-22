@@ -1,4 +1,4 @@
-# Hi there, I'm Thaveesha Wijegunasinghe 👋
+Hi there, I'm Thaveesha Wijegunasinghe
 
 I’m a Data and Business Analyst with a strong interest in building practical digital solutions, improving business processes, and supporting data-driven decision-making.
 
@@ -6,9 +6,7 @@ Currently, I work at **MB Technologies Pvt Ltd**, where I collaborate with busin
 
 I enjoy working across business, technology, and product areas — turning ideas into clear requirements, structured solutions, and valuable outcomes.
 
----
-
-## 🔹 What I Do
+What I Do
 
 - Analyze business requirements and convert them into clear documentation
 - Work with stakeholders to understand problems and propose practical solutions
@@ -18,11 +16,9 @@ I enjoy working across business, technology, and product areas — turning ideas
 - Analyze dashboards, reports, and business data to support decisions
 - Coordinate with development, QA, and project teams to deliver better products
 
----
+Skills & Tools
 
-## 🛠️ Skills & Tools
-
-### Business & Product Analysis
+Business & Product Analysis
 - Requirement Gathering
 - Gap Analysis
 - User Stories
@@ -32,7 +28,7 @@ I enjoy working across business, technology, and product areas — turning ideas
 - UAT Support
 - Stakeholder Communication
 
-### Data & Reporting
+Data & Reporting
 - SQL
 - Power BI
 - Dashboard Requirement Analysis
@@ -40,7 +36,7 @@ I enjoy working across business, technology, and product areas — turning ideas
 - Data Validation
 - Business Insights
 
-### Tools & Platforms
+Tools & Platforms
 - Jira
 - Azure DevOps
 - Postman
@@ -49,9 +45,7 @@ I enjoy working across business, technology, and product areas — turning ideas
 - DB Browser
 - Visual Studio Code
 
----
-
-## 🚀 Areas I’m Growing In
+Areas I’m Growing In
 
 - Business Analysis
 - Data Analytics
@@ -62,9 +56,7 @@ I enjoy working across business, technology, and product areas — turning ideas
 - Client Communication
 - Professional English Communication
 
----
-
-## 📌 Interests
+Interests
 
 - Software Products
 - ERP Systems
@@ -74,13 +66,9 @@ I enjoy working across business, technology, and product areas — turning ideas
 - Business Process Automation
 - Technology-Driven Business Solutions
 
----
-
-## 📫 Connect with Me
+Connect with Me
 
 - LinkedIn: [Thaveesha Wijegunasinghe](https://www.linkedin.com/in/thaveesha-wijegunasinghe-7904b6209/)
 - Email: thaveeshadias11@gmail.com
 
----
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
