@@ -4,7 +4,7 @@ I’m a Data and Business Analyst with a strong interest in building practical d
 
 Currently, I work at **MB Technologies Pvt Ltd**, where I collaborate with business teams, development teams, QA teams, and stakeholders to understand requirements, analyze workflows, define system improvements, and support software delivery.
 
-I enjoy working across business, technology, and product areas — turning ideas into clear requirements, structured solutions, and valuable outcomes.
+I enjoy working across business, technology, and product areas - turning ideas into clear requirements, structured solutions, and valuable outcomes.
 
 What I Do
 
